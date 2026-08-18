@@ -1,0 +1,8 @@
+{
+  "name": "energie2027-v2",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "validate": "node validate-data.mjs"
+  }
+}
